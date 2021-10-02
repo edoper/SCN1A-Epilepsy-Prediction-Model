@@ -561,9 +561,10 @@ importance <- datos
 modpres <- glm(formula = RESPONSE ~ Onset + SCN1A.score, family = binomial(link = "logit"), data = importance)
 dapres<-dominanceAnalysis(modpres)
 dominanceMatrix(dapres, type="complete",fit.functions = "r2.m", ordered=TRUE)
-rip<-plot(dapres, which.graph ="general",fit.function = "r2.m")
+pdf(file = "Supplementary_Material_Relative_Importance.pdf",width = 4,height = 5) 
+plot(dapres, which.graph ="general",fit.function = "r2.m")
+dev.off()
 dapres
-ggsave(filename = "Supplementary_Material_Relative_Importance", plot = rip, width = 5, height = 4)
 
 ####################################################################
 #################### Supplementary_Material_Table_1 ##################
