@@ -1,0 +1,2575 @@
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	Missense
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+Onset-Only	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	Missense
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+SCN1A-Genetic-Score + Onset	PTV
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	PTV
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+REVEL + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	Missense
+CADD + Onset	Missense
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
+CADD + Onset	PTV
