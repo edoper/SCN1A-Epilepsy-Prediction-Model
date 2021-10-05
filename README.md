@@ -6,7 +6,6 @@ Simply run the entire R code and replicate all the results described in the manu
 - SCN1A_Training_Cohort.txt
 - SCN1A_Validation_Cohort_1.txt
 - SCN1A_Validation_Cohort_2.txt
-- v2_Model_available_samples.txt
 
 For reference, the expected results and output files are provided in the Example folder.
 
