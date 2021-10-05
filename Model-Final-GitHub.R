@@ -29,8 +29,7 @@ s.gesfp <- subset.data.frame(datos, subset = datos$Phenotype=="GEFS+")
 datos.c <- subset.data.frame(datos, subset = datos$CADD!="NA")
 datos.r <- subset.data.frame(datos, subset = datos$REVEL!="NA")
 datos.m <- subset.data.frame(datos.r, subset = datos.r$CADD!="NA")
-# Sample composition
-samples.a <- as.data.frame(read.table("v2_Model_available_samples.txt", header = TRUE, sep = "\t"))
+
 # Validation cohorts
 datos.va <- as.data.frame(read.table("SCN1A_Validation_Cohort_1.txt", header = TRUE, sep = "\t"))
 datos.vb <- as.data.frame(read.table("SCN1A_Validation_Cohort_2.txt", header = TRUE, sep = "\t"))
