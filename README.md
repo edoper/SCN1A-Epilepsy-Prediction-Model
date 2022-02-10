@@ -1,5 +1,5 @@
 # SCN1A-Epilepsy-Prediction-Model
-R script to replicate results from Brunklaus _et al_, 2021 paper entitled "Development and Validation of a Prediction Model for Early Diagnosis of SCN1A-related Epilepsies". 
+R script to replicate results from Brunklaus _et al_, 2022 paper [Development and Validation of a Prediction Model for Early Diagnosis of SCN1A-related Epilepsies"](https://n.neurology.org/content/early/2022/01/24/WNL.0000000000200028.long). Neurology. 2022 Jan 24. PMID: 35074891 DOI: 10.1212/WNL.0000000000200028
 
 Simply run the entire R code and replicate all the results described in the manuscript. Make sure you have the input files in your local directory:
 
